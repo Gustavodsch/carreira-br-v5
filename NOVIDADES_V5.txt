@@ -1,0 +1,24 @@
+CARREIRA BR V5 — NOVIDADES PRINCIPAIS
+
+• Elencos persistentes com jogadores, GER, potencial, idade, atributos, forma, moral, condição, contrato e estatísticas.
+• Match Engine V2: posse, finalizações, chutes no alvo, xG, escanteios, faltas, cartões, impedimentos, lesões, pressão e entrada do usuário vindo do banco.
+• O usuário não é titular automaticamente: GER, forma e confiança disputam a vaga.
+• Mercado por propostas, reputação e contratos; não é mais “escolher qualquer clube”.
+• Reputação de carreira e contrato com salário, duração, função e bônus.
+• Treino e evolução por XP.
+• Táticas para treinador e elenco persistente.
+• Demissão/ultimato e objetivos de diretoria.
+• Mundo com memória, resultados, campeões, transferências da IA, envelhecimento e regens.
+• Rivalidades com tratamento de clássico e impacto maior.
+• Calendário e janelas baseados nas informações fornecidas para 2026/2027.
+• Correções: Série C 2026 com 2 rebaixados; Copa do Brasil com 2ª fase ida e volta.
+• Estatísticas de campeonato, artilharia do mundo simulado, prêmios e recordes.
+• Galeria de títulos da V4 preservada: somente títulos conquistados pelo usuário, com troféu/ano/clube.
+• 3 slots de save, autosave, exportação/importação de carreira e saveVersion 5.
+• Código separado e imagens externas para facilitar V6 e reduzir peso do HTML.
+• PWA com manifest + service worker; pode ser instalada quando hospedada em HTTPS.
+• Sons originais simples via WebAudio + vibração opcional.
+• Onboarding, confirmações e opções de acessibilidade.
+
+NOTA
+Esta é uma V5 Beta para testes. As ideias de beta testers, retenção e licenciamento são etapas de projeto, não botões do jogo. Sistemas gigantes como olheiros/base/orçamento já têm estrutura inicial e podem ser aprofundados após o teste da Beta.

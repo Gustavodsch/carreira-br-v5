@@ -1,0 +1,15 @@
+CARREIRA BR V5 — BETA
+
+COMO ABRIR NO CELULAR
+1. Extraia o ZIP inteiro.
+2. Abra index.html (ou ABRIR_CARREIRA_BR_V5.html) com Chrome/Edge.
+3. Não mova só o HTML: as pastas assets, data e systems fazem parte do jogo.
+
+COMO INSTALAR COMO APP (PWA)
+Para aparecer “Adicionar à tela inicial / Instalar app”, hospede esta pasta em um endereço HTTPS (GitHub Pages, Netlify, Cloudflare Pages etc.). Depois abra o link no Chrome e use “Instalar app”. O service worker deixa os arquivos visitados disponíveis offline.
+
+SAVE
+A V5 possui 3 slots, autosave e exportar/importar carreira em JSON. Use Exportar carreira para levar o save para outro aparelho.
+
+V5 BETA
+Esta versão amplia a V4 com elencos persistentes, Match Engine V2, propostas/contratos, reputação, titular/banco, lesões/suspensões, táticas, mundo persistente, IA de transferências, envelhecimento/regens, premiações, rivalidades, calendário, saves e acessibilidade.
